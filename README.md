@@ -1,2 +1,2 @@
 # Variational-Autoencoder-implemented-with-jointly-Gaussian-input
-This code implements the variational autoencoder (VAE) with jointly Gaussian 10 dimensional dataset
+This code has the 'tensorflow' implementation of the variational autoencoder (VAE) with jointly Gaussian 10 dimensional input dataset
